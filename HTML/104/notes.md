@@ -6,3 +6,24 @@
 <b>
 <strong>
 ```
+
+**strikethrough**
+```
+<s>
+```
+
+**italicize**
+```
+<i>
+<em>
+```
+
+**horizontal rule**
+```
+<hr />
+```
+
+**line break**
+```
+<br />
+```
